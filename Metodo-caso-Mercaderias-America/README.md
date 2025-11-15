@@ -24,7 +24,8 @@ El programa requiere un intérprete de **Python 3.x** (compatible con Python 3.1
 1.  **Requisito:** Asegúrate de tener Python instalado.
 2.  **Clonar o Descargar:** Descarga el archivo `gestion_inventario.py`.
 3.  **Ejecutar:** Abre tu terminal o línea de comandos, navega hasta la ubicación del archivo y ejecuta el siguiente comando:
-python gestion_inventario.py 
+
+`python gestion_inventario.py` 
 
 El programa se iniciará automáticamente, mostrando el menú principal en la consola.
 
@@ -36,19 +37,19 @@ A continuación, se presentan las pruebas de ejecución que demuestran la funcio
 
 ### 1. Ver Inventario
 Muestra la lista de productos preexistentes y el valor total, incluyendo una referencia a la tasa de error anterior.
-![Ver Inventario](Metodo-caso-Mercaderias-America/prueba-ver.png)
+![Ver Inventario](./prueba-ver.png)
 
 ### 2. Agregar Producto
 Demuestra la inserción de un nuevo producto, con manejo de *input* para nombre, precio y cantidad.
-![Agregar Producto](Metodo-caso-Mercaderias-America/prueba-agregar.png)
+![Agregar Producto](./prueba-agregar.png)
 
 ### 3. Actualizar Cantidad de Producto
 Permite la búsqueda de un producto por ID y la modificación de su cantidad.
-![Actualizar Cantidad](Metodo-caso-Mercaderias-America/prueba-actualizar.png)
+![Actualizar Cantidad](./prueba-actualizar.png)
 
 ### 4. Eliminar Producto
 Muestra el proceso de eliminación de un producto específico por su ID.
-![Eliminar Producto](Metodo-caso-Mercaderias-America/prueba-eliminar.png)
+![Eliminar Producto](./prueba-eliminar.png)
 
 ---
 
