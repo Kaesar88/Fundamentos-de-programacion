@@ -39,6 +39,5 @@ El programa requiere un intérprete de **Python 3.x** (compatible con Python 3.1
 
 ### Captura de la Ejecución Exitosa
 
-A continuación, se muestra la salida del programa, demostrando la abstracción del proceso en la clase `LoteriaShuffleEuroSueños` al ejecutar el sorteo.
-
+A continuación, se muestra la salida del programa, demostrando la abstracción del proceso en la clase `LoteriaShuffleEuroSueños` al ejecutar el sorteo:
 ![Salida del programa con los números ganadores](Metodo-caso-Malaga-Abierta/loteria_shuffle.png)
