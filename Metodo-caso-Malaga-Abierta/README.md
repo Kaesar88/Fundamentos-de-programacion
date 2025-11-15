@@ -34,7 +34,8 @@ El programa requiere un intérprete de **Python 3.x** (compatible con Python 3.1
 1.  **Requisito:** Asegúrate de tener Python instalado.
 2.  **Clonar o Descargar:** Descarga el archivo `loteria_shuffle.py`.
 3.  **Ejecutar:** Abre tu terminal o línea de comandos, navega hasta la ubicación del archivo y ejecuta el siguiente comando:
-python loteria_shuffle.py 
+
+`python loteria_shuffle.py` 
 
 ---
 
