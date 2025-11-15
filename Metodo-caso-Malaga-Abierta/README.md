@@ -10,7 +10,7 @@
 
 Implementar una solución de software, basada en el diseño Orientado a Objetos (POO), para el proceso de selección de números de la lotería "Euro Sueños". El objetivo principal es garantizar una alta calidad y uniformidad en la **aleatoriedad** de la mezcla de números, reemplazando métodos ineficientes.
 
-El código fuente se encuentra en el archivo: [`Metodo-caso-Malaga-Abierta/loteria_shuffle.py`](./Metodo-caso-Malaga-Abierta/loteria_shuffle.py)
+El código fuente se encuentra en el archivo: [`Metodo-caso-Malaga-Abierta/loteria_shuffle.py`](./loteria_shuffle.py)
 
 ---
 
@@ -40,4 +40,4 @@ El programa requiere un intérprete de **Python 3.x** (compatible con Python 3.1
 ### Captura de la Ejecución Exitosa
 
 A continuación, se muestra la salida del programa, demostrando la abstracción del proceso en la clase `LoteriaShuffleEuroSueños` al ejecutar el sorteo:
-![Salida del programa con los números ganadores](Metodo-caso-Malaga-Abierta/loteria_shuffle.png)
+![Salida del programa con los números ganadores](./loteria_shuffle.png)
