@@ -58,7 +58,7 @@ Para ejecutar el script, asegúrate de tener Python instalado y la librería `ne
 
 El script se ejecuta sin necesidad de *input* del usuario (simulación por lotes). A continuación, se muestra una captura de pantalla de la inicialización de las rutas, que demuestra el correcto funcionamiento del método `agregar_arista` y la estructura del grafo.
 
-![Inicialización del Grafo](Metodo-caso-Ferroviaria-Sur/prueba-inicializacion.png)
+![Inicialización del Grafo](./prueba-inicializacion.png)
 
 ---
 
